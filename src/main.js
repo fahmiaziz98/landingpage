@@ -1,4 +1,4 @@
-import './style.css';
+import '/src/style.css';
 
 // Global state to store all products
 let allProducts = [];
